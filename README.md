@@ -1,6 +1,6 @@
 ### Hi there 👋,  Aditya 
 #### Design and Development
-![Design and Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 I'm Aditya from India, and i do currently I am Pursuing B.tech Computer science and engineering From Lovely professional University. I really enjoy learning languages
 
